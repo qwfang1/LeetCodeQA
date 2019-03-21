@@ -36,7 +36,7 @@ class Solution {
 
     //     return combinations;
     // }
-    // private static void generateParenthesis(int open, int closed, String s){
+    // private static void generateParenthesis2(int open, int closed, String s){
     //     if(open == 0 && closed == 0){
     //         combinations.add(s);
     //     } else {
